@@ -1,0 +1,73 @@
+@media (max-width: 767px) {
+  .menu {
+    display: none;
+  }
+
+  .cover-text h1 {
+    width: auto;
+    font-size: 35px;
+    left: 20px;
+  }
+
+  .burger-bar {
+    display: flex;
+  }
+
+  .couch {
+    display: none;
+  }
+
+  .product-cards {
+    width: 50vh;
+  }
+
+  .sec-text {
+    width: 100%;
+  }
+
+  .min-cards {
+    height: 700px;
+    width: 200px;
+    margin: 20px 10px;
+  }
+
+  .sec-picture {
+    width: 100%;
+  }
+
+  .sec-pic {
+    left:60px;
+    width: auto;
+    height: 400px;
+  }
+
+  .sec-text {
+    padding-left: 10px;
+  }
+
+  .third {
+    height: 1200px;
+  }
+  .third-text {
+    width: 300px;
+    margin-left: 50px;
+  }
+  .third-text p {
+    height: 120px;
+    width: auto;}
+
+  .lamp {
+    display: none;
+  }
+  .chair {
+    display: none;
+  }
+  .plants {
+    left: 50px;
+    height: 400px;
+    width: auto;
+  }
+  .third-pic {
+    width: 100%;
+  }
+}

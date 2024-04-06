@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'Post No Bills Colombo';
+    src: url('../fonts/PostNoBillsColombo-ExtraBold.eot');
+    src: url('../fonts/PostNoBillsColombo-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/PostNoBillsColombo-ExtraBold.woff2') format('woff2'),
+        url('../fonts/PostNoBillsColombo-ExtraBold.woff') format('woff'),
+        url('../fonts/PostNoBillsColombo-ExtraBold.ttf') format('truetype'),
+        url('../fonts/PostNoBillsColombo-ExtraBold.svg#PostNoBillsColombo-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
